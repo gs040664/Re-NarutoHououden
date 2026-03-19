@@ -1,0 +1,28 @@
+# Git ignore for NarutoHououden project
+
+# Temporary scripts
+fix_jutsus.py
+fix_jutsus_v2.py
+consolidate_chapters.py
+consolidate_v2.py
+zhconvert_tool.py
+
+# Python caches
+__pycache__/
+
+# System files
+.gemini/
+.agents/
+.agent/
+_agents/
+_agent/
+brain/
+logs/
+
+# User specific or IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Ignore large original text files if needed (opt-in)
+# novel_chapters/original/
