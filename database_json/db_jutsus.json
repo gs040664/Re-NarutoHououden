@@ -480,7 +480,7 @@
     "id": "jutsu_0054",
     "category": "水遁",
     "name": "水遁．千殺水翔",
-    "rank": "",
+    "rank": "B",
     "description": "將周圍的水分變為無數根的針進而攻擊的忍術，向指定方面攻擊之後所有的水針都將會往目標地攻擊，施術者也要注意距離，否則也會被誤傷，能夠單手結印為其特點。",
     "seals": "",
     "users": "白"
@@ -1596,7 +1596,7 @@
     "id": "jutsu_0178",
     "category": "土遁",
     "name": "土遁·引爆黏土",
-    "rank": "",
+    "rank": "S",
     "description": "用滲入查克拉的黏土製造炸彈．威力驚人。",
     "seals": "",
     "users": "地達羅"
@@ -2044,24 +2044,6 @@
   },
   {
     "id": "jutsu_0228",
-    "category": "風遁",
-    "name": "風遁·蝦蟆鐵砲",
-    "rank": "",
-    "description": "見上方風遁部分。",
-    "seals": "",
-    "users": "鳴人+蝦蟆龍"
-  },
-  {
-    "id": "jutsu_0229",
-    "category": "風遁",
-    "name": "風遁·蝦蟆油炎彈",
-    "rank": "",
-    "description": "見上方風遁部分。",
-    "seals": "",
-    "users": "鳴人+蝦蟆吉+蝦蟆龍"
-  },
-  {
-    "id": "jutsu_0230",
     "category": "未分類",
     "name": "炎風龍捲",
     "rank": "",
@@ -2070,7 +2052,7 @@
     "users": "遊戲劇情原創 角都+大蛇丸"
   },
   {
-    "id": "jutsu_0231",
+    "id": "jutsu_0229",
     "category": "火遁",
     "name": "火遁·泥漿炎彈",
     "rank": "",
@@ -2079,7 +2061,7 @@
     "users": "第三代火影"
   },
   {
-    "id": "jutsu_0232",
+    "id": "jutsu_0230",
     "category": "未分類",
     "name": "螺旋丸",
     "rank": "A",
@@ -2088,7 +2070,7 @@
     "users": "第四代火影、自來也、旗木卡卡西、漩渦鳴人、猿飛木葉丸、漩渦慕留人"
   },
   {
-    "id": "jutsu_0233",
+    "id": "jutsu_0231",
     "category": "未分類",
     "name": "大玉螺旋丸",
     "rank": "A",
@@ -2097,61 +2079,16 @@
     "users": "自來也、第四代火影、漩渦鳴人、猿飛木葉丸"
   },
   {
-    "id": "jutsu_0234",
+    "id": "jutsu_0232",
     "category": "未分類",
     "name": "螺旋連丸",
-    "rank": "",
+    "rank": "E",
     "description": "令影分身協助，雙手各有一個螺旋丸向敵人攻擊。但需要極大量查克拉。",
     "seals": "無",
     "users": "漩渦鳴人"
   },
   {
-    "id": "jutsu_0235",
-    "category": "風遁",
-    "name": "風遁·螺旋丸",
-    "rank": "A",
-    "description": "鳴人將風屬性查克拉加入螺旋丸後開發出的術。",
-    "seals": "無",
-    "users": "漩渦鳴人"
-  },
-  {
-    "id": "jutsu_0236",
-    "category": "風遁",
-    "name": "風遁．螺旋手裡劍",
-    "rank": "S",
-    "description": "風遁.螺旋丸的加強版，為禁術，因為其破壞力會對施術者的手造成嚴重反傷，屬S級的超高難度忍術，破壞力驚人，需要3個影分身才能使出，可把對手體內所有的經脈系統及細胞擊潰，甚至把查克拉化成無數細小的風刃，在細胞尺度上進行微觀世界的破壞攻擊。但此招的完成度卻只有50％，所以施術者才會受傷，如果已經100％完成的此招了話，施術者就不會受傷，並且將高密度的風屬性查克拉維持旋轉並拋出，可以進行遠距離投擲的攻擊奧義，命中目標後會迅速膨脹成一個巨大的高速球狀漩渦，攻擊目標會被漩渦完全削至無影無蹤！簡單的說就是只有完成50％是禁術，而完成100％是奧義。",
-    "seals": "無",
-    "users": "漩渦鳴人"
-  },
-  {
-    "id": "jutsu_0237",
-    "category": "風遁",
-    "name": "風遁．龍捲螺旋丸",
-    "rank": "",
-    "description": "出現於《羈絆》中，擁有比螺旋丸更強的威力。是在颱風外圍製造出龍捲風來增強威力的原理，這是要有超越螺旋丸的形態變化的能力才能施展的忍術。",
-    "seals": "無",
-    "users": "漩渦鳴人"
-  },
-  {
-    "id": "jutsu_0238",
-    "category": "風遁",
-    "name": "風遁．太極螺旋丸",
-    "rank": "",
-    "description": "《失落之塔》出現的忍術，號稱最強的螺旋丸，是由鳴人與第四代火影的螺旋丸結合產生的。",
-    "seals": "無",
-    "users": "漩渦鳴人與第四代火影"
-  },
-  {
-    "id": "jutsu_0239",
-    "category": "風遁",
-    "name": "風遁．迷你螺旋手裡劍",
-    "rank": "S",
-    "description": "迷你的螺旋手裡劍，由尾獸狀態的鳴人使出，可切割任何東西。",
-    "seals": "無",
-    "users": "漩渦鳴人"
-  },
-  {
-    "id": "jutsu_0240",
+    "id": "jutsu_0233",
     "category": "熔遁",
     "name": "熔遁．螺旋手裡劍",
     "rank": "",
@@ -2160,16 +2097,16 @@
     "users": "漩渦鳴人"
   },
   {
-    "id": "jutsu_0241",
+    "id": "jutsu_0234",
     "category": "未分類",
     "name": "惑星螺旋丸",
-    "rank": "",
+    "rank": "S",
     "description": "一個螺旋丸周圍環繞著3顆小螺旋丸而成，會隨機旋轉，威力強大",
     "seals": "無",
     "users": "漩渦鳴人"
   },
   {
-    "id": "jutsu_0242",
+    "id": "jutsu_0235",
     "category": "未分類",
     "name": "仙法·超大玉螺旋丸",
     "rank": "",
@@ -2178,25 +2115,25 @@
     "users": "漩渦鳴人與自來也"
   },
   {
-    "id": "jutsu_0243",
+    "id": "jutsu_0236",
     "category": "未分類",
     "name": "螺旋亂丸",
-    "rank": "",
+    "rank": "S",
     "description": "鳴人九尾化使用的術。",
     "seals": "無",
     "users": "漩渦鳴人"
   },
   {
-    "id": "jutsu_0244",
+    "id": "jutsu_0237",
     "category": "未分類",
     "name": "螺旋吸丸",
-    "rank": "",
+    "rank": "S",
     "description": "鳴人九尾化使用的術。能把敵人整個吸過來。",
     "seals": "無",
     "users": "漩渦鳴人"
   },
   {
-    "id": "jutsu_0245",
+    "id": "jutsu_0238",
     "category": "火遁",
     "name": "火遁·豪炎螺旋丸",
     "rank": "",
@@ -2205,79 +2142,7 @@
     "users": "自來也、火影忍者疾風傳·究極風暴2"
   },
   {
-    "id": "jutsu_0246",
-    "category": "千鳥",
-    "name": "雷遁·千鳥",
-    "rank": "A",
-    "description": "卡卡西獨創忍術。將查克拉集中於手掌，以達一擊殺敵之效，攻擊力之強足以貫穿人體。",
-    "seals": "丑-卯-申",
-    "users": "旗木卡卡西、宇智波佐助"
-  },
-  {
-    "id": "jutsu_0247",
-    "category": "千鳥",
-    "name": "雷遁·雷切",
-    "rank": "S",
-    "description": "卡卡西獨創忍術。由於卡卡西曾以千鳥斬斷過真正的雷電，因此又稱為雷切。",
-    "seals": "丑-卯-申",
-    "users": "旗木卡卡西"
-  },
-  {
-    "id": "jutsu_0248",
-    "category": "千鳥",
-    "name": "雷遁·雷切 雙穿光",
-    "rank": "S",
-    "description": "將查克拉集中於雙手上，並造出兩個雷切給予敵人雙重傷害。",
-    "seals": "丑-卯-申",
-    "users": "旗木卡卡西"
-  },
-  {
-    "id": "jutsu_0249",
-    "category": "千鳥",
-    "name": "雷遁·雷傳",
-    "rank": "S",
-    "description": "卡卡西在第四次忍界大戰時對付鳶時所使用，影分身與本體共同使用的雷切連接，拉出一道極長的雷線再拖向敵人，可以說是雷切的大範圍版本。",
-    "seals": "丑-卯-申",
-    "users": "旗木卡卡西"
-  },
-  {
-    "id": "jutsu_0250",
-    "category": "千鳥",
-    "name": "雷遁·雷獸追牙",
-    "rank": "C",
-    "description": "卡卡西在對付培因時所使用的招式，將雷切形態變化成雷犬再攻擊對手",
-    "seals": "丑-卯-申",
-    "users": "旗木卡卡西"
-  },
-  {
-    "id": "jutsu_0251",
-    "category": "千鳥",
-    "name": "雷遁·千鳥流",
-    "rank": "C",
-    "description": "將雷系查克拉從全身散發出來，攻擊範圍擴大至四周圍但殺傷力不如千鳥強大，其釋出的雷電足以使人麻痹暈厥。",
-    "seals": "無",
-    "users": "宇智波佐助"
-  },
-  {
-    "id": "jutsu_0252",
-    "category": "千鳥",
-    "name": "雷遁·千鳥銳槍",
-    "rank": "A",
-    "description": "貫穿一切的雷電長槍，「千鳥刀」伸長的形態變化。",
-    "seals": "無",
-    "users": "宇智波佐助"
-  },
-  {
-    "id": "jutsu_0253",
-    "category": "千鳥",
-    "name": "雷遁·千鳥千本",
-    "rank": "B",
-    "description": "査克拉箭，這時「千鳥」可變粗或極細的雷之千本。",
-    "seals": "無",
-    "users": "宇智波佐助"
-  },
-  {
-    "id": "jutsu_0254",
+    "id": "jutsu_0239",
     "category": "通靈之術",
     "name": "〈口寄せの術〉",
     "rank": "C",
@@ -2286,7 +2151,7 @@
     "users": "火影忍者通靈術列表"
   },
   {
-    "id": "jutsu_0255",
+    "id": "jutsu_0240",
     "category": "通靈之術·穢土轉生",
     "name": "〈口寄せ・穢土転生〉",
     "rank": "S級禁術",
@@ -2295,7 +2160,7 @@
     "users": "大蛇丸、"
   },
   {
-    "id": "jutsu_0256",
+    "id": "jutsu_0241",
     "category": "通靈之術·穢土轉生·解",
     "name": "〈口寄せ・穢土転生・解〉",
     "rank": "S級禁術",
@@ -2304,12 +2169,2775 @@
     "users": "藥師兜"
   },
   {
-    "id": "jutsu_0257",
+    "id": "jutsu_0242",
     "category": "穢土轉生 · 解",
     "name": "〈穢土転生・解〉",
     "rank": "S級禁術",
     "description": "動畫560話首次出現，由穢土轉生的亡者施術，解除與召喚者的通靈契約後脫離召喚者的掌控，並成為不死之身，擁有無限的查克拉。",
     "seals": "巳－未－亥－戌－寅",
     "users": "宇智波斑"
+  },
+  {
+    "id": "jutsu_0243",
+    "category": "忍術",
+    "name": "太極螺旋丸",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "四代目火影+漩渦鳴人（失落之塔）"
+  },
+  {
+    "id": "jutsu_0244",
+    "category": "忍術",
+    "name": "尾獸玉",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "漩渦鳴人（四尾之後狀態），尾獸（一至九尾）"
+  },
+  {
+    "id": "jutsu_0245",
+    "category": "忍術",
+    "name": "神之紙者",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "小南"
+  },
+  {
+    "id": "jutsu_0246",
+    "category": "形態變化",
+    "name": "白鱗大蛇",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "大蛇丸"
+  },
+  {
+    "id": "jutsu_0247",
+    "category": "雷遁",
+    "name": "雷切",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "旗木卡卡西"
+  },
+  {
+    "id": "jutsu_0248",
+    "category": "雷遁",
+    "name": "麒麟",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "宇智波佐助"
+  },
+  {
+    "id": "jutsu_0249",
+    "category": "土遁．引爆黏土",
+    "name": "- C0黏土 自我引爆",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "地達羅"
+  },
+  {
+    "id": "jutsu_0250",
+    "category": "時空間忍術",
+    "name": "飛雷神之術",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "第二代火影、第四代火影（跳越時空，有別於光速及瞬間移動）"
+  },
+  {
+    "id": "jutsu_0251",
+    "category": "禁忌封印術",
+    "name": "屍鬼封盡",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "第三代火影、第四代火影"
+  },
+  {
+    "id": "jutsu_0252",
+    "category": "封印術",
+    "name": "幻龍九封盡",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "培因、曉成員"
+  },
+  {
+    "id": "jutsu_0253",
+    "category": "封印術",
+    "name": "裏四象封印術",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "志村段藏"
+  },
+  {
+    "id": "jutsu_0254",
+    "category": "封印術",
+    "name": "陰封印·解",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "綱手、春野櫻"
+  },
+  {
+    "id": "jutsu_0255",
+    "category": "禁術",
+    "name": "己生轉生",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "千代婆婆"
+  },
+  {
+    "id": "jutsu_0256",
+    "category": "傀儡術",
+    "name": "白秘技 近松十機之集",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "千代婆婆"
+  },
+  {
+    "id": "jutsu_0257",
+    "category": "傀儡術",
+    "name": "赤秘技 百機操演",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "赤砂蠍"
+  },
+  {
+    "id": "jutsu_0258",
+    "category": "通靈之術",
+    "name": "穢土轉生",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "第二代火影、大蛇丸、藥師兜"
+  },
+  {
+    "id": "jutsu_0259",
+    "category": "忍術",
+    "name": "預知未來",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "大蝦蟆仙人"
+  },
+  {
+    "id": "jutsu_0260",
+    "category": "火遁",
+    "name": "超龍脈豪火球之術",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "百足（傀儡）[出現於失落之塔]"
+  },
+  {
+    "id": "jutsu_0261",
+    "category": "火遁",
+    "name": "龍脈豪火球之術",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "百足（傀儡）[出現於失落之塔]"
+  },
+  {
+    "id": "jutsu_0262",
+    "category": "火遁",
+    "name": "超速再生之術",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "百足（傀儡）[出現於失落之塔]"
+  },
+  {
+    "id": "jutsu_0263",
+    "category": "火遁",
+    "name": "記憶消除",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "滅-第四代火影[出現於失落之塔]"
+  },
+  {
+    "id": "jutsu_0264",
+    "category": "封印術",
+    "name": "龍脈封印",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "第四代火影[出現於失落之塔]"
+  },
+  {
+    "id": "jutsu_0265",
+    "category": "禁術",
+    "name": "肉體化生之術",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "神農（使施術者獲得究極的肉體，能從第一門開到第八門保持不死）"
+  },
+  {
+    "id": "jutsu_0266",
+    "category": "雷遁",
+    "name": "雷夢雷人",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "雷遁四人眾：北根、成馬、凍雨、星斗"
+  },
+  {
+    "id": "jutsu_0267",
+    "category": "土遁",
+    "name": "有為轉變",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "不動"
+  },
+  {
+    "id": "jutsu_0268",
+    "category": "封印術",
+    "name": "結界四方封陣",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "三尾封印班(動畫原創)"
+  },
+  {
+    "id": "jutsu_0269",
+    "category": "禁術",
+    "name": "怒震天",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "螢（螢以自身為中心向外爆發，把數百公里以上範圍全部毀滅，需儲氣約1,800秒）（動畫原創）"
+  },
+  {
+    "id": "jutsu_0270",
+    "category": "體術",
+    "name": "八門遁甲陣",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "李洛克、凱"
+  },
+  {
+    "id": "jutsu_0271",
+    "category": "體術",
+    "name": "裏蓮華",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "李洛克、凱（八門遁甲開到第三門生門）"
+  },
+  {
+    "id": "jutsu_0272",
+    "category": "體術",
+    "name": "朝孔雀",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "李洛克、阿凱（八門遁甲開到第六門景門）"
+  },
+  {
+    "id": "jutsu_0273",
+    "category": "體術",
+    "name": "晝虎",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "阿凱（八門遁甲開到第七門驚門）"
+  },
+  {
+    "id": "jutsu_0274",
+    "category": "祕技",
+    "name": "操具·天鎖祭",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "天天"
+  },
+  {
+    "id": "jutsu_0275",
+    "category": "祕技",
+    "name": "操具·襲千刃",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "天天"
+  },
+  {
+    "id": "jutsu_0276",
+    "category": "祕技",
+    "name": "操具·浮刃壁",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "天天"
+  },
+  {
+    "id": "jutsu_0277",
+    "category": "祕技",
+    "name": "操具·縛流星",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "天天"
+  },
+  {
+    "id": "jutsu_0278",
+    "category": "忍術",
+    "name": "多重影分身",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "漩渦鳴人、旗木卡卡西、三代目火影、木葉丸、漩渦幕留人"
+  },
+  {
+    "id": "jutsu_0279",
+    "category": "忍術",
+    "name": "手裡劍影分身",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "第三代火影、第四代火影（失落之塔裡所使用）、木葉丸、天天"
+  },
+  {
+    "id": "jutsu_0280",
+    "category": "忍術",
+    "name": "遠眼鏡之術",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "第三代火影"
+  },
+  {
+    "id": "jutsu_0281",
+    "category": "忍術",
+    "name": "亂身衝",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "綱手"
+  },
+  {
+    "id": "jutsu_0282",
+    "category": "忍術",
+    "name": "蝦蟆口束縛術",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "自來也"
+  },
+  {
+    "id": "jutsu_0283",
+    "category": "忍術",
+    "name": "時雨",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "小南"
+  },
+  {
+    "id": "jutsu_0284",
+    "category": "忍術",
+    "name": "三日月之舞",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "月光疾風"
+  },
+  {
+    "id": "jutsu_0285",
+    "category": "忍術",
+    "name": "迷彩隱",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "草忍、岩忍"
+  },
+  {
+    "id": "jutsu_0286",
+    "category": "雷遁",
+    "name": "忍者雷光劍",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "宇智波佐助（火影忍者劇場版羈絆結束時使用的忍術）"
+  },
+  {
+    "id": "jutsu_0287",
+    "category": "幻術",
+    "name": "魔幻·樹縛殺",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "紅"
+  },
+  {
+    "id": "jutsu_0288",
+    "category": "幻術",
+    "name": "黑暗行之術",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "初代火影、第二代火影"
+  },
+  {
+    "id": "jutsu_0289",
+    "category": "通靈術",
+    "name": "三重羅生門",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "大蛇丸"
+  },
+  {
+    "id": "jutsu_0290",
+    "category": "封印術",
+    "name": "五行解印",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "自來也"
+  },
+  {
+    "id": "jutsu_0291",
+    "category": "封印術",
+    "name": "五行封印",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "大蛇丸"
+  },
+  {
+    "id": "jutsu_0292",
+    "category": "封印術",
+    "name": "封邪法印",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "旗木卡卡西、夕日紅"
+  },
+  {
+    "id": "jutsu_0293",
+    "category": "忍術",
+    "name": "九尾螺旋丸",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "漩渦鳴人（九尾妖狐狀態）"
+  },
+  {
+    "id": "jutsu_0294",
+    "category": "忍術",
+    "name": "龍捲螺旋丸",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "漩渦鳴人（九尾查克拉之螺旋丸，威力如同大玉螺旋丸）"
+  },
+  {
+    "id": "jutsu_0295",
+    "category": "忍術",
+    "name": "超強毅力螺旋丸",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "漩渦鳴人（普通螺旋丸，名字而已，出現於羈絆）"
+  },
+  {
+    "id": "jutsu_0296",
+    "category": "忍術",
+    "name": "超化神拳",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "神農（八門全開模式，以黑暗查克拉球濃縮後擊向對手）"
+  },
+  {
+    "id": "jutsu_0297",
+    "category": "體術",
+    "name": "裂骨拳",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "神農（羈絆裡出現的人物，八門全開模式）"
+  },
+  {
+    "id": "jutsu_0298",
+    "category": "忍術",
+    "name": "死魂之術",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "藥師兜"
+  },
+  {
+    "id": "jutsu_0299",
+    "category": "忍術",
+    "name": "毒霧",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "靜音"
+  },
+  {
+    "id": "jutsu_0300",
+    "category": "忍術",
+    "name": "針地藏",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "自來也"
+  },
+  {
+    "id": "jutsu_0301",
+    "category": "忍術",
+    "name": "亂獅子髮之術",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "自來也"
+  },
+  {
+    "id": "jutsu_0302",
+    "category": "忍術",
+    "name": "蛙變之術",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "自來也"
+  },
+  {
+    "id": "jutsu_0303",
+    "category": "忍術",
+    "name": "蝦蟆平影操控術",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "自來也"
+  },
+  {
+    "id": "jutsu_0304",
+    "category": "忍術",
+    "name": "四紫炎陣",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "音忍四人眾、忍聯軍四人"
+  },
+  {
+    "id": "jutsu_0305",
+    "category": "忍術",
+    "name": "消寫顏",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "大蛇丸"
+  },
+  {
+    "id": "jutsu_0306",
+    "category": "忍術",
+    "name": "式紙之舞",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "小南"
+  },
+  {
+    "id": "jutsu_0307",
+    "category": "火遁",
+    "name": "豪火滅卻",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "宇智波斑"
+  },
+  {
+    "id": "jutsu_0308",
+    "category": "幻術",
+    "name": "幻術束縛",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "木葉暗部"
+  },
+  {
+    "id": "jutsu_0309",
+    "category": "幻術",
+    "name": "鬼來",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "桃地再不斬"
+  },
+  {
+    "id": "jutsu_0310",
+    "category": "體術",
+    "name": "漩渦鳴人二千連彈",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "漩渦鳴人"
+  },
+  {
+    "id": "jutsu_0311",
+    "category": "體術",
+    "name": "四面八方手裏劍",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "漩渦鳴人"
+  },
+  {
+    "id": "jutsu_0312",
+    "category": "體術",
+    "name": "肉彈針戰車",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "秋道丁次"
+  },
+  {
+    "id": "jutsu_0313",
+    "category": "體術",
+    "name": "無聲暗殺術",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "桃地再不斬"
+  },
+  {
+    "id": "jutsu_0314",
+    "category": "體術",
+    "name": "表蓮華",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "李洛克（八門遁甲開到第一或第二門開門或休門）"
+  },
+  {
+    "id": "jutsu_0315",
+    "category": "忍術",
+    "name": "超獸偽畫",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "祭"
+  },
+  {
+    "id": "jutsu_0316",
+    "category": "忍術",
+    "name": "影分身",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "漩渦鳴人、旗木卡卡西、宇智波鼬、三代火影、木葉丸、惠比斯"
+  },
+  {
+    "id": "jutsu_0317",
+    "category": "封印術",
+    "name": "封黑法印",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "音之四人眾"
+  },
+  {
+    "id": "jutsu_0318",
+    "category": "封印術",
+    "name": "封火法印",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "自來也"
+  },
+  {
+    "id": "jutsu_0319",
+    "category": "通靈術",
+    "name": "土遁·追牙術",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "旗木卡卡西"
+  },
+  {
+    "id": "jutsu_0320",
+    "category": "通靈術",
+    "name": "羅生門",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "大蛇丸、左／右近"
+  },
+  {
+    "id": "jutsu_0321",
+    "category": "傀儡術",
+    "name": "傀儡召喚",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "勘九郎、千代婆婆、蠍"
+  },
+  {
+    "id": "jutsu_0322",
+    "category": "傀儡術",
+    "name": "黑秘技 機一發",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "勘九郎"
+  },
+  {
+    "id": "jutsu_0323",
+    "category": "傀儡術",
+    "name": "三寶吸潰",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "千代婆婆"
+  },
+  {
+    "id": "jutsu_0324",
+    "category": "忍術",
+    "name": "牙狼牙",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "犬冢一族"
+  },
+  {
+    "id": "jutsu_0325",
+    "category": "忍術",
+    "name": "操風車之三大刀",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "宇智波佐助"
+  },
+  {
+    "id": "jutsu_0326",
+    "category": "忍術",
+    "name": "如雨露千本",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "雨忍"
+  },
+  {
+    "id": "jutsu_0327",
+    "category": "忍術",
+    "name": "心轉身",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "山中一族"
+  },
+  {
+    "id": "jutsu_0328",
+    "category": "忍術",
+    "name": "潛影蛇手",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "御手洗紅豆、大蛇丸、宇智波佐助、兜"
+  },
+  {
+    "id": "jutsu_0329",
+    "category": "忍術",
+    "name": "牙通牙",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "犬塚一族"
+  },
+  {
+    "id": "jutsu_0330",
+    "category": "忍術",
+    "name": "風沙陣",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "手鞠"
+  },
+  {
+    "id": "jutsu_0331",
+    "category": "忍術",
+    "name": "紙天使",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "小南"
+  },
+  {
+    "id": "jutsu_0332",
+    "category": "忍術",
+    "name": "響鳴穿",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "托斯"
+  },
+  {
+    "id": "jutsu_0333",
+    "category": "忍術",
+    "name": "斬空極波",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "薩克"
+  },
+  {
+    "id": "jutsu_0334",
+    "category": "忍術",
+    "name": "蝦蟆油彈",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "自來也"
+  },
+  {
+    "id": "jutsu_0335",
+    "category": "忍術",
+    "name": "風爆之陣法",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "海野伊魯卡"
+  },
+  {
+    "id": "jutsu_0336",
+    "category": "體術",
+    "name": "影舞葉",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "李洛克、宇智波佐助、旗木卡卡西、凱"
+  },
+  {
+    "id": "jutsu_0337",
+    "category": "體術",
+    "name": "漩渦鳴人連彈",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "漩渦鳴人"
+  },
+  {
+    "id": "jutsu_0338",
+    "category": "體術",
+    "name": "獅子連彈",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "宇智波佐助"
+  },
+  {
+    "id": "jutsu_0339",
+    "category": "體術",
+    "name": "肉彈戰車",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "秋道丁次"
+  },
+  {
+    "id": "jutsu_0340",
+    "category": "體術",
+    "name": "雙昇龍",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "天天"
+  },
+  {
+    "id": "jutsu_0341",
+    "category": "體術",
+    "name": "怪力",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "春野櫻、綱手"
+  },
+  {
+    "id": "jutsu_0342",
+    "category": "體術",
+    "name": "櫻花衝",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "春野櫻"
+  },
+  {
+    "id": "jutsu_0343",
+    "category": "幻術",
+    "name": "心中狐狸",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "雨忍"
+  },
+  {
+    "id": "jutsu_0344",
+    "category": "幻術",
+    "name": "此處非",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "雨忍"
+  },
+  {
+    "id": "jutsu_0345",
+    "category": "通靈術",
+    "name": "蝦蟆文太",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "自來也、四代火影、漩渦鳴人、我室友-懋軒"
+  },
+  {
+    "id": "jutsu_0346",
+    "category": "通靈術",
+    "name": "蝦蟆廣",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "自來也、漩渦鳴人"
+  },
+  {
+    "id": "jutsu_0347",
+    "category": "通靈術",
+    "name": "蝦蟆健",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "自來也、漩渦鳴人"
+  },
+  {
+    "id": "jutsu_0348",
+    "category": "通靈術",
+    "name": "蝦蟆寅",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "自來也、四代火影"
+  },
+  {
+    "id": "jutsu_0349",
+    "category": "通靈術",
+    "name": "萬蛇",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "大蛇丸、宇智波佐助"
+  },
+  {
+    "id": "jutsu_0350",
+    "category": "通靈術",
+    "name": "猿魔",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "三代火影"
+  },
+  {
+    "id": "jutsu_0351",
+    "category": "通靈術",
+    "name": "活蝓",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "綱手、春野櫻"
+  },
+  {
+    "id": "jutsu_0352",
+    "category": "通靈術",
+    "name": "蝦蟆吉",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "漩渦鳴人"
+  },
+  {
+    "id": "jutsu_0353",
+    "category": "通靈術",
+    "name": "蝦蟆龍",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "漩渦鳴人"
+  },
+  {
+    "id": "jutsu_0354",
+    "category": "通靈術",
+    "name": "大蛇",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "宇智波佐助"
+  },
+  {
+    "id": "jutsu_0355",
+    "category": "通靈術",
+    "name": "大鷹",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "宇智波佐助"
+  },
+  {
+    "id": "jutsu_0356",
+    "category": "通靈術",
+    "name": "鎌鼬",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "手鞠"
+  },
+  {
+    "id": "jutsu_0357",
+    "category": "通靈術",
+    "name": "蜘蛛",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "鬼童丸"
+  },
+  {
+    "id": "jutsu_0358",
+    "category": "通靈術",
+    "name": "怒鬼",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "多由也"
+  },
+  {
+    "id": "jutsu_0359",
+    "category": "通靈術",
+    "name": "女王蜂",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "雀蜂"
+  },
+  {
+    "id": "jutsu_0360",
+    "category": "忍術",
+    "name": "朧分身術",
+    "rank": "D",
+    "description": "",
+    "seals": "",
+    "users": "朧、篝"
+  },
+  {
+    "id": "jutsu_0361",
+    "category": "忍術",
+    "name": "影手裡劍",
+    "rank": "D",
+    "description": "",
+    "seals": "",
+    "users": "宇智波佐助"
+  },
+  {
+    "id": "jutsu_0362",
+    "category": "忍術",
+    "name": "束縛術",
+    "rank": "D",
+    "description": "",
+    "seals": "",
+    "users": "大蛇丸、暗部"
+  },
+  {
+    "id": "jutsu_0363",
+    "category": "忍術",
+    "name": "霧隱之術",
+    "rank": "D",
+    "description": "",
+    "seals": "",
+    "users": "桃地再不斬、照美冥、枇杷十藏"
+  },
+  {
+    "id": "jutsu_0364",
+    "category": "忍術",
+    "name": "斬空波",
+    "rank": "D",
+    "description": "",
+    "seals": "",
+    "users": "薩克"
+  },
+  {
+    "id": "jutsu_0365",
+    "category": "忍術",
+    "name": "四腳之術",
+    "rank": "D",
+    "description": "",
+    "seals": "",
+    "users": "犬塚牙"
+  },
+  {
+    "id": "jutsu_0366",
+    "category": "忍術",
+    "name": "獸人分身術",
+    "rank": "D",
+    "description": "",
+    "seals": "",
+    "users": "犬塚牙、赤丸"
+  },
+  {
+    "id": "jutsu_0367",
+    "category": "忍術",
+    "name": "布丁陣",
+    "rank": "D",
+    "description": "",
+    "seals": "",
+    "users": "木葉軍團"
+  },
+  {
+    "id": "jutsu_0368",
+    "category": "忍術",
+    "name": "男子同人色誘術",
+    "rank": "D",
+    "description": "",
+    "seals": "",
+    "users": "漩渦鳴人、木葉丸"
+  },
+  {
+    "id": "jutsu_0369",
+    "category": "忍術",
+    "name": "女子同人色誘術",
+    "rank": "D",
+    "description": "",
+    "seals": "",
+    "users": "漩渦鳴人、木葉丸"
+  },
+  {
+    "id": "jutsu_0370",
+    "category": "忍術",
+    "name": "紙手裡劍",
+    "rank": "D",
+    "description": "",
+    "seals": "",
+    "users": "小南"
+  },
+  {
+    "id": "jutsu_0371",
+    "category": "忍術",
+    "name": "紙分身",
+    "rank": "D",
+    "description": "",
+    "seals": "",
+    "users": "小南"
+  },
+  {
+    "id": "jutsu_0372",
+    "category": "幻術",
+    "name": "魔幻·奈落見之術",
+    "rank": "D",
+    "description": "",
+    "seals": "",
+    "users": "旗木卡卡西"
+  },
+  {
+    "id": "jutsu_0373",
+    "category": "幻術",
+    "name": "霞從者之術",
+    "rank": "D",
+    "description": "",
+    "seals": "",
+    "users": "夢火"
+  },
+  {
+    "id": "jutsu_0374",
+    "category": "體術",
+    "name": "木葉旋風",
+    "rank": "D",
+    "description": "",
+    "seals": "",
+    "users": "李洛克"
+  },
+  {
+    "id": "jutsu_0375",
+    "category": "祕傳·體術奧義",
+    "name": "千年殺",
+    "rank": "D",
+    "description": "",
+    "seals": "",
+    "users": "旗木卡卡西、漩渦鳴人"
+  },
+  {
+    "id": "jutsu_0376",
+    "category": "忍術",
+    "name": "五右衛門",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "自來也"
+  },
+  {
+    "id": "jutsu_0377",
+    "category": "忍術",
+    "name": "毛針千本",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "自來也"
+  },
+  {
+    "id": "jutsu_0378",
+    "category": "忍術",
+    "name": "超大玉螺旋丸",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "自來也-漩渦鳴人（仙人模式）"
+  },
+  {
+    "id": "jutsu_0379",
+    "category": "忍術",
+    "name": "超大玉螺旋多連丸",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "漩渦鳴人（仙人模式）"
+  },
+  {
+    "id": "jutsu_0380",
+    "category": "風遁",
+    "name": "奧義 螺旋手裏劍",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "漩渦鳴人"
+  },
+  {
+    "id": "jutsu_0381",
+    "category": "幻術",
+    "name": "幻蝦蟆精神束縛牢",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "自來也（仙人模式）"
+  },
+  {
+    "id": "jutsu_0382",
+    "category": "萬花筒寫輪眼",
+    "name": "幻術 別天神",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "宇智波止水"
+  },
+  {
+    "id": "jutsu_0383",
+    "category": "萬花筒寫輪眼",
+    "name": "幻術 守護木葉",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "宇智波鼬"
+  },
+  {
+    "id": "jutsu_0384",
+    "category": "萬花筒寫輪眼",
+    "name": "神威 結界空間轉移",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "旗木卡卡西、宇智波帶土"
+  },
+  {
+    "id": "jutsu_0385",
+    "category": "萬花筒寫輪眼",
+    "name": "天照",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "宇智波鼬、宇智波佐助"
+  },
+  {
+    "id": "jutsu_0386",
+    "category": "萬花筒寫輪眼",
+    "name": "幻術 月讀",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "宇智波鼬"
+  },
+  {
+    "id": "jutsu_0387",
+    "category": "萬花筒寫輪眼",
+    "name": "終極奧義 須佐能乎",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "宇智波鼬、宇智波佐助、宇智波斑、旗木卡卡西(帶土)"
+  },
+  {
+    "id": "jutsu_0388",
+    "category": "秘術",
+    "name": "神羅天征",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "長門"
+  },
+  {
+    "id": "jutsu_0389",
+    "category": "秘術",
+    "name": "萬象天引",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "長門"
+  },
+  {
+    "id": "jutsu_0390",
+    "category": "禁術",
+    "name": "地爆天星",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "長門，宇智波班，宇智波佐助"
+  },
+  {
+    "id": "jutsu_0391",
+    "category": "禁術",
+    "name": "輪迴天生術",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "長門"
+  },
+  {
+    "id": "jutsu_0392",
+    "category": "封印術",
+    "name": "封術吸印",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "長門"
+  },
+  {
+    "id": "jutsu_0393",
+    "category": "忍術",
+    "name": "怪腕火矢",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "培因"
+  },
+  {
+    "id": "jutsu_0394",
+    "category": "木遁秘術",
+    "name": "樹界降誕",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "初代火影、大和、宇智波斑"
+  },
+  {
+    "id": "jutsu_0395",
+    "category": "木遁秘術",
+    "name": "樹縛永葬",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "大和、初代火影、宇智波斑"
+  },
+  {
+    "id": "jutsu_0396",
+    "category": "體術",
+    "name": "八卦六十四掌",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "日向一族"
+  },
+  {
+    "id": "jutsu_0397",
+    "category": "體術",
+    "name": "八卦一百二十八掌",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "日向一族"
+  },
+  {
+    "id": "jutsu_0398",
+    "category": "冰遁祕術",
+    "name": "魔鏡冰晶",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "白"
+  },
+  {
+    "id": "jutsu_0399",
+    "category": "咒術",
+    "name": "死司憑血",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "飛段"
+  },
+  {
+    "id": "jutsu_0400",
+    "category": "封印術",
+    "name": "八卦之封印式",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "第四代火影"
+  },
+  {
+    "id": "jutsu_0401",
+    "category": "忍術",
+    "name": "幻燈身",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "「曉」成員"
+  },
+  {
+    "id": "jutsu_0402",
+    "category": "忍術",
+    "name": "象轉之術",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "培因"
+  },
+  {
+    "id": "jutsu_0403",
+    "category": "忍術",
+    "name": "砂塵雙撃",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "我愛羅"
+  },
+  {
+    "id": "jutsu_0404",
+    "category": "忍術",
+    "name": "砂塵冥柩",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "我愛羅"
+  },
+  {
+    "id": "jutsu_0405",
+    "category": "忍術",
+    "name": "滅砂瀑葬",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "我愛羅"
+  },
+  {
+    "id": "jutsu_0406",
+    "category": "忍術",
+    "name": "靈媒之術",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "我愛羅"
+  },
+  {
+    "id": "jutsu_0407",
+    "category": "忍術",
+    "name": "砂瀑送葬",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "我愛羅"
+  },
+  {
+    "id": "jutsu_0408",
+    "category": "忍術",
+    "name": "假寐之術",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "我愛羅"
+  },
+  {
+    "id": "jutsu_0409",
+    "category": "忍術",
+    "name": "守鶴之盾",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "我愛羅"
+  },
+  {
+    "id": "jutsu_0410",
+    "category": "忍術",
+    "name": "流砂瀑流",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "我愛羅"
+  },
+  {
+    "id": "jutsu_0411",
+    "category": "忍術",
+    "name": "砂縛牢",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "我愛羅"
+  },
+  {
+    "id": "jutsu_0412",
+    "category": "土遁",
+    "name": "引爆黏土",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "C2黏土 龍-地達羅"
+  },
+  {
+    "id": "jutsu_0413",
+    "category": "祕傳",
+    "name": "影子模仿術",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "奈良一族"
+  },
+  {
+    "id": "jutsu_0414",
+    "category": "祕傳",
+    "name": "影子絞首術",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "奈良一族"
+  },
+  {
+    "id": "jutsu_0415",
+    "category": "祕傳",
+    "name": "影子束縛術",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "奈良一族"
+  },
+  {
+    "id": "jutsu_0416",
+    "category": "祕傳",
+    "name": "影子聚集術",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "奈良一族"
+  },
+  {
+    "id": "jutsu_0417",
+    "category": "祕傳",
+    "name": "影縫術",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "奈良一族"
+  },
+  {
+    "id": "jutsu_0418",
+    "category": "祕傳",
+    "name": "影子通靈術",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "奈良一族"
+  },
+  {
+    "id": "jutsu_0419",
+    "category": "祕傳",
+    "name": "倍化術",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "秋道一族"
+  },
+  {
+    "id": "jutsu_0420",
+    "category": "祕傳",
+    "name": "軟體改造",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "劍美澄、大蛇丸"
+  },
+  {
+    "id": "jutsu_0421",
+    "category": "祕傳",
+    "name": "寄壞蟲",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "油女一族"
+  },
+  {
+    "id": "jutsu_0422",
+    "category": "祕傳",
+    "name": "蟲沼",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "油女一族"
+  },
+  {
+    "id": "jutsu_0423",
+    "category": "祕傳",
+    "name": "砂鐵時雨",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "第三代風影"
+  },
+  {
+    "id": "jutsu_0424",
+    "category": "祕傳",
+    "name": "砂鐵界法",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "第三代風影"
+  },
+  {
+    "id": "jutsu_0425",
+    "category": "祕傳",
+    "name": "木分身",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "初代火影、大和"
+  },
+  {
+    "id": "jutsu_0426",
+    "category": "祕傳",
+    "name": "木遁•四柱家之術",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "初代火影、大和"
+  },
+  {
+    "id": "jutsu_0427",
+    "category": "祕傳",
+    "name": "木遁•四柱牢術",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "初代火影、大和"
+  },
+  {
+    "id": "jutsu_0428",
+    "category": "祕傳",
+    "name": "木遁•木錠壁",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "初代火影、大和"
+  },
+  {
+    "id": "jutsu_0429",
+    "category": "忍術",
+    "name": "心亂身",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "山中一族"
+  },
+  {
+    "id": "jutsu_0430",
+    "category": "通靈術",
+    "name": "龍蝦、變色龍、多頭犬、巨鳥，犀牛、熊貓、培因六道",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "培因"
+  },
+  {
+    "id": "jutsu_0431",
+    "category": "體術",
+    "name": "八卦空掌",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "日向一族(原是本家的體術)"
+  },
+  {
+    "id": "jutsu_0432",
+    "category": "仙術",
+    "name": "千手殺",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "地陸"
+  },
+  {
+    "id": "jutsu_0433",
+    "category": "冥遁",
+    "name": "吸穴孔",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "卑彌呼(吸收所有忍術,並以相同的術反饋給對方。)"
+  },
+  {
+    "id": "jutsu_0434",
+    "category": "體術",
+    "name": "守護八卦六十四掌",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "日向雛田"
+  },
+  {
+    "id": "jutsu_0435",
+    "category": "其他",
+    "name": "形態變化 白鱗大蛇",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "大蛇丸"
+  },
+  {
+    "id": "jutsu_0436",
+    "category": "其他",
+    "name": "風遁‧迷你螺旋手裏劍",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "漩渦鳴人（六道之身）"
+  },
+  {
+    "id": "jutsu_0437",
+    "category": "其他",
+    "name": "風遁‧螺旋手裏劍",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "漩渦鳴人"
+  },
+  {
+    "id": "jutsu_0438",
+    "category": "其他",
+    "name": "雷遁 雷切",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "旗木卡卡西"
+  },
+  {
+    "id": "jutsu_0439",
+    "category": "其他",
+    "name": "雷遁 麒麟",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "宇智波佐助"
+  },
+  {
+    "id": "jutsu_0440",
+    "category": "其他",
+    "name": "仙法.五右衛門",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "自來也"
+  },
+  {
+    "id": "jutsu_0441",
+    "category": "其他",
+    "name": "禁忌封印術 屍鬼封盡",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "第三代火影、第四代火影"
+  },
+  {
+    "id": "jutsu_0442",
+    "category": "其他",
+    "name": "通靈之術 穢土轉生",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "第二代火影、大蛇丸、藥師兜"
+  },
+  {
+    "id": "jutsu_0443",
+    "category": "其他",
+    "name": "忍體術·雷遁奧義·義雷沈怒雷斧",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": ""
+  },
+  {
+    "id": "jutsu_0444",
+    "category": "其他",
+    "name": "劇場版",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": ""
+  },
+  {
+    "id": "jutsu_0445",
+    "category": "其他",
+    "name": "火遁 超龍脈豪火球之術",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "百足（傀儡）[出現於失落之塔]"
+  },
+  {
+    "id": "jutsu_0446",
+    "category": "其他",
+    "name": "火遁 龍脈豪火球之術",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "百足（傀儡）[出現於失落之塔]"
+  },
+  {
+    "id": "jutsu_0447",
+    "category": "其他",
+    "name": "火遁 超速再生之術",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "百足（傀儡）[出現於失落之塔]"
+  },
+  {
+    "id": "jutsu_0448",
+    "category": "其他",
+    "name": "火遁 記憶消除",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "滅-第四代火影[出現於失落之塔]"
+  },
+  {
+    "id": "jutsu_0449",
+    "category": "其他",
+    "name": "動畫",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": ""
+  },
+  {
+    "id": "jutsu_0450",
+    "category": "其他",
+    "name": "雷遁 雷夢雷人",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "雷遁四人眾：北根、成馬、凍雨、星斗"
+  },
+  {
+    "id": "jutsu_0451",
+    "category": "其他",
+    "name": "土遁 有為轉變",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "不動"
+  },
+  {
+    "id": "jutsu_0452",
+    "category": "其他",
+    "name": "土遁．究極創生術．死者土壤",
+    "rank": "S",
+    "description": "",
+    "seals": "",
+    "users": "不動"
+  },
+  {
+    "id": "jutsu_0453",
+    "category": "其他",
+    "name": "祕技 操具·天鎖祭",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "天天"
+  },
+  {
+    "id": "jutsu_0454",
+    "category": "其他",
+    "name": "祕技 操具·襲千刃",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "天天"
+  },
+  {
+    "id": "jutsu_0455",
+    "category": "其他",
+    "name": "祕技 操具·浮刃壁",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "天天"
+  },
+  {
+    "id": "jutsu_0456",
+    "category": "其他",
+    "name": "祕技 操具·縛流星",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "天天"
+  },
+  {
+    "id": "jutsu_0457",
+    "category": "其他",
+    "name": "醫療術‧掌仙術",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "藥師兜、春野櫻、山中井野、綱手姬、香燐、希"
+  },
+  {
+    "id": "jutsu_0458",
+    "category": "其他",
+    "name": "雷遁·咒印千鳥",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "宇智波佐助（咒印狀態2）"
+  },
+  {
+    "id": "jutsu_0459",
+    "category": "其他",
+    "name": "雷遁 忍者雷光劍",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "宇智波佐助（火影忍者劇場版羈絆結束時使用的忍術）"
+  },
+  {
+    "id": "jutsu_0460",
+    "category": "其他",
+    "name": "水遁.大鮫彈之術",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "干柿鬼鮫"
+  },
+  {
+    "id": "jutsu_0461",
+    "category": "其他",
+    "name": "火遁.龍炎放歌之術（宇智波斑）",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": ""
+  },
+  {
+    "id": "jutsu_0462",
+    "category": "其他",
+    "name": "通靈術 三重羅生門",
+    "rank": "A",
+    "description": "",
+    "seals": "",
+    "users": "大蛇丸"
+  },
+  {
+    "id": "jutsu_0463",
+    "category": "其他",
+    "name": "火遁 豪火滅卻",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "宇智波斑"
+  },
+  {
+    "id": "jutsu_0464",
+    "category": "其他",
+    "name": "火遁.豪火滅矢（宇智波斑）",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": ""
+  },
+  {
+    "id": "jutsu_0465",
+    "category": "其他",
+    "name": "土遁·岩宿崩",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "岩忍"
+  },
+  {
+    "id": "jutsu_0466",
+    "category": "其他",
+    "name": "水遁·水鮫彈之術",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "干柿鬼鮫"
+  },
+  {
+    "id": "jutsu_0467",
+    "category": "其他",
+    "name": "結界‧天蓋法陣",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "自來也"
+  },
+  {
+    "id": "jutsu_0468",
+    "category": "其他",
+    "name": "通靈術 土遁·追牙術",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "旗木卡卡西"
+  },
+  {
+    "id": "jutsu_0469",
+    "category": "其他",
+    "name": "通靈術 羅生門",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "大蛇丸、左／右近"
+  },
+  {
+    "id": "jutsu_0470",
+    "category": "其他",
+    "name": "通靈術秘傳·壓垮攤販",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "蝦蟆文太"
+  },
+  {
+    "id": "jutsu_0471",
+    "category": "其他",
+    "name": "通靈術秘傳·屋臺崩壞",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "蝦蟆廣"
+  },
+  {
+    "id": "jutsu_0472",
+    "category": "其他",
+    "name": "陷阱陣法·陷阱八卦之陣",
+    "rank": "B",
+    "description": "",
+    "seals": "",
+    "users": "木葉忍者村"
+  },
+  {
+    "id": "jutsu_0473",
+    "category": "其他",
+    "name": "水遁•水牢",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "桃地再不斬、干柿鬼鮫"
+  },
+  {
+    "id": "jutsu_0474",
+    "category": "其他",
+    "name": "水遁•水分身",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "桃地再不斬、干柿鬼鮫、旗木卡卡西"
+  },
+  {
+    "id": "jutsu_0475",
+    "category": "其他",
+    "name": "土遁•裂土轉掌",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "岩忍、旗木卡卡西"
+  },
+  {
+    "id": "jutsu_0476",
+    "category": "其他",
+    "name": "土遁•土流壁",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "次郎坊"
+  },
+  {
+    "id": "jutsu_0477",
+    "category": "其他",
+    "name": "土遁•土中映魚",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "朧、篝"
+  },
+  {
+    "id": "jutsu_0478",
+    "category": "其他",
+    "name": "風遁•大突破",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "大蛇丸"
+  },
+  {
+    "id": "jutsu_0479",
+    "category": "其他",
+    "name": "火遁·鳳仙火",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "宇智波一族（宇智波一族的基本火遁）"
+  },
+  {
+    "id": "jutsu_0480",
+    "category": "其他",
+    "name": "通靈術 蝦蟆文太",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "自來也、四代火影、漩渦鳴人、我室友-懋軒"
+  },
+  {
+    "id": "jutsu_0481",
+    "category": "其他",
+    "name": "通靈術 蝦蟆廣",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "自來也、漩渦鳴人"
+  },
+  {
+    "id": "jutsu_0482",
+    "category": "其他",
+    "name": "通靈術 蝦蟆健",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "自來也、漩渦鳴人"
+  },
+  {
+    "id": "jutsu_0483",
+    "category": "其他",
+    "name": "通靈術 蝦蟆寅",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "自來也、四代火影"
+  },
+  {
+    "id": "jutsu_0484",
+    "category": "其他",
+    "name": "通靈術 萬蛇",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "大蛇丸、宇智波佐助"
+  },
+  {
+    "id": "jutsu_0485",
+    "category": "其他",
+    "name": "通靈術 猿魔",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "三代火影"
+  },
+  {
+    "id": "jutsu_0486",
+    "category": "其他",
+    "name": "通靈術 活蝓",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "綱手、春野櫻"
+  },
+  {
+    "id": "jutsu_0487",
+    "category": "其他",
+    "name": "通靈術 蝦蟆吉",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "漩渦鳴人"
+  },
+  {
+    "id": "jutsu_0488",
+    "category": "其他",
+    "name": "通靈術 蝦蟆龍",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "漩渦鳴人"
+  },
+  {
+    "id": "jutsu_0489",
+    "category": "其他",
+    "name": "通靈術 大蛇",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "宇智波佐助"
+  },
+  {
+    "id": "jutsu_0490",
+    "category": "其他",
+    "name": "通靈術 大鷹",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "宇智波佐助"
+  },
+  {
+    "id": "jutsu_0491",
+    "category": "其他",
+    "name": "通靈術 鎌鼬",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "手鞠"
+  },
+  {
+    "id": "jutsu_0492",
+    "category": "其他",
+    "name": "通靈術 蜘蛛",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "鬼童丸"
+  },
+  {
+    "id": "jutsu_0493",
+    "category": "其他",
+    "name": "通靈術 怒鬼",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "多由也"
+  },
+  {
+    "id": "jutsu_0494",
+    "category": "其他",
+    "name": "通靈術 女王蜂",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": "雀蜂"
+  },
+  {
+    "id": "jutsu_0495",
+    "category": "其他",
+    "name": "傀儡術 勘九郎、千代婆婆、蠍",
+    "rank": "C",
+    "description": "",
+    "seals": "",
+    "users": ""
+  },
+  {
+    "id": "jutsu_0496",
+    "category": "其他",
+    "name": "土遁·心中斬斬首術",
+    "rank": "D",
+    "description": "",
+    "seals": "",
+    "users": "旗木卡卡西、猿飛日斬"
+  },
+  {
+    "id": "jutsu_0497",
+    "category": "其他",
+    "name": "祕傳·體術奧義 千年殺",
+    "rank": "D",
+    "description": "",
+    "seals": "",
+    "users": "旗木卡卡西、漩渦鳴人"
+  },
+  {
+    "id": "jutsu_0498",
+    "category": "其他",
+    "name": "忍術 分身術",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": ""
+  },
+  {
+    "id": "jutsu_0499",
+    "category": "其他",
+    "name": "忍術 替身術",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": ""
+  },
+  {
+    "id": "jutsu_0500",
+    "category": "其他",
+    "name": "忍術 變身術",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": ""
+  },
+  {
+    "id": "jutsu_0501",
+    "category": "其他",
+    "name": "忍術 簑衣隱身術",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": ""
+  },
+  {
+    "id": "jutsu_0502",
+    "category": "其他",
+    "name": "忍術 脫繩術",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": ""
+  },
+  {
+    "id": "jutsu_0503",
+    "category": "其他",
+    "name": "忍術 金縛術",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": ""
+  },
+  {
+    "id": "jutsu_0504",
+    "category": "其他",
+    "name": "六道之身",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "六道仙人、漩渦鳴人"
+  },
+  {
+    "id": "jutsu_0505",
+    "category": "其他",
+    "name": "六道式封印",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "六道仙人、漩渦鳴人(六道之身)"
+  },
+  {
+    "id": "jutsu_0506",
+    "category": "其他",
+    "name": "仙法",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": ""
+  },
+  {
+    "id": "jutsu_0507",
+    "category": "其他",
+    "name": "聚氣",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "自來也、漩渦鳴人"
+  },
+  {
+    "id": "jutsu_0508",
+    "category": "其他",
+    "name": "兩生之術",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "自來也(仙蛙深作與鳴人融合，但因為九尾而失敗了)"
+  },
+  {
+    "id": "jutsu_0509",
+    "category": "其他",
+    "name": "仙人模式",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "自來也、漩渦鳴人、藥師兜"
+  },
+  {
+    "id": "jutsu_0510",
+    "category": "其他",
+    "name": "忍術 蛙鳴(兩大仙蛙對畜生道時用的仙術)",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": ""
+  },
+  {
+    "id": "jutsu_0511",
+    "category": "其他",
+    "name": "風遁 沙塵(仙蛙志摩婆婆用來遮蔽六道視線時的術)",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": ""
+  },
+  {
+    "id": "jutsu_0512",
+    "category": "其他",
+    "name": "風遁 奧義 螺旋手裏劍",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "漩渦鳴人"
+  },
+  {
+    "id": "jutsu_0513",
+    "category": "其他",
+    "name": "血繼限界",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": ""
+  },
+  {
+    "id": "jutsu_0514",
+    "category": "其他",
+    "name": "寫輪眼",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "宇智波一族、旗木卡卡西、段藏"
+  },
+  {
+    "id": "jutsu_0515",
+    "category": "其他",
+    "name": "萬花筒寫輪眼",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "宇智波斑、宇智波伊茲納、宇智波止水、宇智波鼬、宇智波佐助、旗木卡卡西、宇智波帶土、宇智波富岳"
+  },
+  {
+    "id": "jutsu_0516",
+    "category": "其他",
+    "name": "萬花筒寫輪眼 幻術 別天神",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "宇智波止水"
+  },
+  {
+    "id": "jutsu_0517",
+    "category": "其他",
+    "name": "萬花筒寫輪眼 幻術 守護木葉",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "宇智波鼬"
+  },
+  {
+    "id": "jutsu_0518",
+    "category": "其他",
+    "name": "萬花筒寫輪眼 神威 結界空間轉移",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "旗木卡卡西、宇智波帶土"
+  },
+  {
+    "id": "jutsu_0519",
+    "category": "其他",
+    "name": "萬花筒寫輪眼 天照",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "宇智波鼬、宇智波佐助"
+  },
+  {
+    "id": "jutsu_0520",
+    "category": "其他",
+    "name": "萬花筒寫輪眼 幻術 月讀",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "宇智波鼬"
+  },
+  {
+    "id": "jutsu_0521",
+    "category": "其他",
+    "name": "萬花筒寫輪眼 幻術 預知未來",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "宇智波富岳"
+  },
+  {
+    "id": "jutsu_0522",
+    "category": "其他",
+    "name": "萬花筒寫輪眼 終極奧義 須佐能乎",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "宇智波鼬、宇智波佐助、宇智波斑、旗木卡卡西(帶土)"
+  },
+  {
+    "id": "jutsu_0523",
+    "category": "其他",
+    "name": "永恆萬花筒寫輪眼",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "宇智波斑、宇智波佐助"
+  },
+  {
+    "id": "jutsu_0524",
+    "category": "其他",
+    "name": "六道輪迴眼",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "六道仙人、培因、宇智波斑、宇智波佐助"
+  },
+  {
+    "id": "jutsu_0525",
+    "category": "其他",
+    "name": "塵遁．原界剝離",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "二代土影、三代土影"
+  },
+  {
+    "id": "jutsu_0526",
+    "category": "其他",
+    "name": "木遁秘術 樹界降誕",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "初代火影、大和、宇智波斑"
+  },
+  {
+    "id": "jutsu_0527",
+    "category": "其他",
+    "name": "木遁秘術 樹縛永葬",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "大和、初代火影、宇智波斑"
+  },
+  {
+    "id": "jutsu_0528",
+    "category": "其他",
+    "name": "白眼",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "日向一族、青"
+  },
+  {
+    "id": "jutsu_0529",
+    "category": "其他",
+    "name": "屍骨脈",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "輝夜一族"
+  },
+  {
+    "id": "jutsu_0530",
+    "category": "其他",
+    "name": "冰遁祕術 魔鏡冰晶",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "白"
+  },
+  {
+    "id": "jutsu_0531",
+    "category": "其他",
+    "name": "雨虎自在之術",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "長門"
+  },
+  {
+    "id": "jutsu_0532",
+    "category": "其他",
+    "name": "咒術 死司憑血",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "飛段"
+  },
+  {
+    "id": "jutsu_0533",
+    "category": "其他",
+    "name": "土遁 引爆黏土",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "C2黏土 龍-地達羅"
+  },
+  {
+    "id": "jutsu_0534",
+    "category": "其他",
+    "name": "通靈術 龍蝦、變色龍、多頭犬、巨鳥，犀牛、熊貓、培因六道",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "培因"
+  },
+  {
+    "id": "jutsu_0535",
+    "category": "其他",
+    "name": "通靈術忍術•隱身術",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "變色龍"
+  },
+  {
+    "id": "jutsu_0536",
+    "category": "其他",
+    "name": "通靈術忍術•泡沫",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "龍蝦"
+  },
+  {
+    "id": "jutsu_0537",
+    "category": "其他",
+    "name": "通靈術秘傳•舌齒粘酸",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "活蝓"
+  },
+  {
+    "id": "jutsu_0538",
+    "category": "其他",
+    "name": "結界忍術.五封結界",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "培因"
+  },
+  {
+    "id": "jutsu_0539",
+    "category": "其他",
+    "name": "晶遁•結晶五角路",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "紅蓮"
+  },
+  {
+    "id": "jutsu_0540",
+    "category": "其他",
+    "name": "仙術 千手殺",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "地陸"
+  },
+  {
+    "id": "jutsu_0541",
+    "category": "其他",
+    "name": "冰遁•破龍猛虎",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "狼牙鳴響"
+  },
+  {
+    "id": "jutsu_0542",
+    "category": "其他",
+    "name": "冰遁•一角白鯨",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "狼牙鳴響、旗木卡卡西"
+  },
+  {
+    "id": "jutsu_0543",
+    "category": "其他",
+    "name": "冰遁•狼牙雪崩",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "狼牙鳴響"
+  },
+  {
+    "id": "jutsu_0544",
+    "category": "其他",
+    "name": "冰遁•黑龍暴風殺",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "風花怒濤"
+  },
+  {
+    "id": "jutsu_0545",
+    "category": "其他",
+    "name": "冰遁•雙龍暴風殺",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "風花怒濤"
+  },
+  {
+    "id": "jutsu_0546",
+    "category": "其他",
+    "name": "冰遁•燕吹雪",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "鶴翼吹雪"
+  },
+  {
+    "id": "jutsu_0547",
+    "category": "其他",
+    "name": "冰遁•冰牢",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "鶴翼吹雪"
+  },
+  {
+    "id": "jutsu_0548",
+    "category": "其他",
+    "name": "冥遁 吸穴孔",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "卑彌呼(吸收所有忍術,並以相同的術反饋給對方。)"
+  },
+  {
+    "id": "jutsu_0549",
+    "category": "其他",
+    "name": "八卦掌‧三百六十一式",
+    "rank": "E",
+    "description": "",
+    "seals": "",
+    "users": "日向寧次(只出現在PS2)"
   }
 ]
