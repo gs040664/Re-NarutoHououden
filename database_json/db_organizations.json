@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "name": "木葉忍者村",
+    "type": "忍者村",
+    "location": "火之國",
+    "leader_title": "火影",
+    "description": "忍者五大國之一火之國的村子，以火之意志著稱。由千手一族與宇智波一族共同創立。"
+  },
+  {
+    "name": "砂忍者村",
+    "type": "忍者村",
+    "location": "風之國",
+    "leader_title": "風影",
+    "description": "風之國的忍者村，由第一代風影創立。擅長術式包含傀儡術、砂忍術、風遁。"
+  },
+  {
+    "name": "霧忍者村",
+    "type": "忍者村",
+    "location": "水之國",
+    "leader_title": "水影",
+    "description": "位於水之國的村子，曾被稱為『血霧之村』。特產為著名的『霧忍七刀眾』。"
+  },
+  {
+    "name": "雲忍者村",
+    "type": "忍者村",
+    "location": "雷之國",
+    "leader_title": "雷影",
+    "description": "位於雷之國的高山上，擅長雷遁與劍術。村民多以力量與速度為榮。"
+  },
+  {
+    "name": "岩忍者村",
+    "type": "忍者村",
+    "location": "土之國",
+    "leader_title": "土影",
+    "description": "土之國的村子，建築多由岩石構成。擅長土遁與爆破部隊。"
+  },
+  {
+    "name": "曉",
+    "type": "叛忍組織",
+    "location": "未知 (雨忍者村為基地)",
+    "leader_title": "首領",
+    "description": "由S級叛忍組成的神秘組織，目標為收集尾獸以達成其『計畫』。"
+  },
+  {
+    "name": "根",
+    "type": "暗部分部",
+    "location": "木葉忍者村地下",
+    "leader_title": "領導人",
+    "description": "由志村段藏領導的木葉暗部訓練部門，奉行極端現實主義，執行村子的灰暗任務。"
+  },
+  {
+    "name": "音忍者村",
+    "type": "忍者村",
+    "location": "田之國",
+    "leader_title": "首領",
+    "description": "由大蛇丸創立的小型忍者村，目的是為了研究忍術以及作為其備用容器的基地。"
+  }
+]
